@@ -1,10 +1,12 @@
 ## Sample React project extending "facebook/create-react-app" and using:
-- React
-- Redux
-- Saga
-- Axios
-- Bootstrap
-- scss
+- React - Best frontend framework... :)
+- Redux - Central store, prevents unnecessary re-renders, seperated UI and data management for easy testing.
+- Saga - Powerful data fetching tool. Easy to test.
+- Axios - Complete tool for API requests.
+- Bootstrap - Good framework for responsive and fast FE development.
+- scss - Most mature, stable, and powerful professional grade CSS extension language.
+
+TODO: Unit tests.
 
 ## Available Scripts
 
