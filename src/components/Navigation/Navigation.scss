@@ -1,0 +1,8 @@
+@import '../../variables.scss';
+
+.header.navbar-light .navbar-nav .nav-link {
+    color: $white;
+    &:hover {
+        color: rgba($white, 0.5);
+    }
+}
