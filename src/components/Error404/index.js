@@ -12,7 +12,7 @@ function Error404(props) {
             <div className="error-image">
                 <img src={ logo } alt="Logo" />
             </div>
-            <div className="">
+            <div>
                 <Button onClick={() => { history.push('/') }}>Go home</Button>
             </div>
         </div>
